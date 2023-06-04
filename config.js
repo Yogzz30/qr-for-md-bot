@@ -1,5 +1,5 @@
 module.exports = {
-       MONGO_URL : '',//enter your mongodb url to get and store youe session!
+       MONGO_URL : 'mongodb+srv://YogzzDevX:YogzzDevX@cluster0.c6quul0.mongodb.net/?retryWrites=true&w=majority',//enter your mongodb url to get and store youe session!
        SESSION_PREFIX : 'inrl~'// defult value of the satrting of your session
 }
 /*
